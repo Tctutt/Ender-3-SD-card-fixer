@@ -14,3 +14,4 @@ __plugin_hooks__ = {
     "octoprint.comm.protocol.gcode.received": convert_TF_SD
 }
 __plugin_author__ = "Tyler Tuttle"
+__plugin_url__ = "https://github.com/Tctutt/Ender-3-SD-card-fixer/"
